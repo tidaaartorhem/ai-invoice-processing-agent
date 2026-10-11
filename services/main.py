@@ -230,7 +230,33 @@ def main() -> None:
         "pipeline": "deterministic, no ML models, no external calls",
         "generated_by": "python -m services.main",
     }, indent=1))
-    print("[main] wrote queue/duplicates/analytics/paste_samples/meta to web/public/")
+
+    # Seeded company records bundle for the live paste-an-invoice tab.
+    # Trimmed to the vendors in the shipped queue to keep the bundle lean.
+    queue_vendors = {p["invoice"]["vendor_key"] for p in queue}
+    queue_pos = [po for po in pos if po.vendor_key in queue_vendors]
+    queue_po_numbers = {po.po_number for po in queue_pos}
+    (OUT / "registers.json").write_text(json.dumps({
+        "label": "SEEDED company records for the walkthrough (not real data)",
+        "review_date": REVIEW_DATE.isoformat(),
+        "terms": {k: v for k, v in terms.items() if k in queue_vendors},
+        "purchase_orders": [
+            {"po_number": po.po_number, "vendor_key": po.vendor_key,
+             "order_date": po.order_date.isoformat() if po.order_date else None,
+             "lines": [{"description": ln.description, "qty": ln.qty,
+                        "unit_price": ln.unit_price} for ln in po.lines]}
+            for po in queue_pos
+        ],
+        "goods_receipts": [
+            {"grn_number": g.grn_number, "po_number": g.po_number,
+             "vendor_key": g.vendor_key,
+             "received_date": g.received_date.isoformat() if g.received_date else None,
+             "lines": [{"description": ln.description, "qty": ln.qty,
+                        "unit_price": ln.unit_price} for ln in g.lines]}
+            for g in grns if g.po_number in queue_po_numbers
+        ],
+    }, indent=1))
+    print("[main] wrote queue/duplicates/analytics/paste_samples/meta/registers to web/public/")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,71 @@
+{
+ "corpus_invoices": 19960,
+ "window_invoices": 530,
+ "window_spend": 260555.63,
+ "currency": "GBP",
+ "actions": {
+  "needs_review": 159,
+  "approve": 371
+ },
+ "value_by_action": {
+  "needs_review": 57681.96,
+  "approve": 202873.67
+ },
+ "exceptions": {
+  "price_variance": 75,
+  "total_mismatch": 1,
+  "missing_po": 139,
+  "qty_not_received": 10,
+  "grn_missing": 4
+ },
+ "discount_capturable": 678.06,
+ "discount_lost": 239.1,
+ "top_vendors": [
+  {
+   "vendor": "No account on file",
+   "spend": 22870.14
+  },
+  {
+   "vendor": "Vendor account 14607 (United Kingdom)",
+   "spend": 11955.2
+  },
+  {
+   "vendor": "Vendor account 14646 (Netherlands)",
+   "spend": 9995.22
+  },
+  {
+   "vendor": "Vendor account 12678 (France)",
+   "spend": 8947.96
+  },
+  {
+   "vendor": "Vendor account 12536 (France)",
+   "spend": 8322.12
+  },
+  {
+   "vendor": "Vendor account 13694 (United Kingdom)",
+   "spend": 5542.18
+  },
+  {
+   "vendor": "Vendor account 16013 (United Kingdom)",
+   "spend": 5194.36
+  },
+  {
+   "vendor": "Vendor account 14096 (United Kingdom)",
+   "spend": 3840.16
+  },
+  {
+   "vendor": "Vendor account 17857 (United Kingdom)",
+   "spend": 3640.0
+  },
+  {
+   "vendor": "Vendor account 15513 (United Kingdom)",
+   "spend": 2520.28
+  }
+ ],
+ "no_po_under_50": {
+  "count": 25,
+  "spend": 504.02
+ },
+ "pos_seeded": 318,
+ "grns_seeded": 317
+}

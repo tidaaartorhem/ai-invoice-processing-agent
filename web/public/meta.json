@@ -1,0 +1,12 @@
+{
+ "project": "matchboard",
+ "review_date": "2011-10-31",
+ "window": [
+  "2011-10-24",
+  "2011-10-30"
+ ],
+ "corpus": "UCI Online Retail (Daqing Chen et al., 2015) \u2014 real invoice line-item records, UK online retailer, Dec 2010 - Dec 2011. Downloaded without auth from the UCI ML Repository.",
+ "company_records": "Seeded PO/GRN registers + vendor terms for the walkthrough (see services/seed.py).",
+ "pipeline": "deterministic, no ML models, no external calls",
+ "generated_by": "python -m services.main"
+}

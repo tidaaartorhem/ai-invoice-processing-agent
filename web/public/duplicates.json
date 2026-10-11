@@ -1,0 +1,3711 @@
+{
+ "scanned_invoices": 19960,
+ "pairs": [
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536366' vs '536372').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536366",
+    "invoice_number": "536366",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536372",
+    "invoice_number": "536372",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536366' vs '536377').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536366",
+    "invoice_number": "536366",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536377",
+    "invoice_number": "536377",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536366' vs '536399').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536366",
+    "invoice_number": "536366",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536399",
+    "invoice_number": "536399",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536366' vs '536407').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536366",
+    "invoice_number": "536366",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536407",
+    "invoice_number": "536407",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536366' vs '536601').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536366",
+    "invoice_number": "536366",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536601",
+    "invoice_number": "536601",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536366' vs '536603').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536366",
+    "invoice_number": "536366",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536603",
+    "invoice_number": "536603",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536366' vs '536610').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536366",
+    "invoice_number": "536366",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536610",
+    "invoice_number": "536610",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536366' vs '536614').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536366",
+    "invoice_number": "536366",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536614",
+    "invoice_number": "536614",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536366' vs '536629').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536366",
+    "invoice_number": "536366",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536629",
+    "invoice_number": "536629",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536366' vs '536631').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536366",
+    "invoice_number": "536366",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536631",
+    "invoice_number": "536631",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536366' vs '536688').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536366",
+    "invoice_number": "536366",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536688",
+    "invoice_number": "536688",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536366' vs '536693').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536366",
+    "invoice_number": "536366",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536693",
+    "invoice_number": "536693",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536366' vs '536751').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536366",
+    "invoice_number": "536366",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536751",
+    "invoice_number": "536751",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536366' vs '536753').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536366",
+    "invoice_number": "536366",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536753",
+    "invoice_number": "536753",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536366' vs '536789').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536366",
+    "invoice_number": "536366",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536789",
+    "invoice_number": "536789",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536372' vs '536377').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536372",
+    "invoice_number": "536372",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536377",
+    "invoice_number": "536377",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536372' vs '536399').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536372",
+    "invoice_number": "536372",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536399",
+    "invoice_number": "536399",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536372' vs '536407').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536372",
+    "invoice_number": "536372",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536407",
+    "invoice_number": "536407",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536372' vs '536601').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536372",
+    "invoice_number": "536372",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536601",
+    "invoice_number": "536601",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536372' vs '536603').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536372",
+    "invoice_number": "536372",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536603",
+    "invoice_number": "536603",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536372' vs '536610').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536372",
+    "invoice_number": "536372",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536610",
+    "invoice_number": "536610",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536372' vs '536614').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536372",
+    "invoice_number": "536372",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536614",
+    "invoice_number": "536614",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536372' vs '536629').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536372",
+    "invoice_number": "536372",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536629",
+    "invoice_number": "536629",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536372' vs '536631').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536372",
+    "invoice_number": "536372",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536631",
+    "invoice_number": "536631",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536372' vs '536688').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536372",
+    "invoice_number": "536372",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536688",
+    "invoice_number": "536688",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536372' vs '536693').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536372",
+    "invoice_number": "536372",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536693",
+    "invoice_number": "536693",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536372' vs '536751').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536372",
+    "invoice_number": "536372",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536751",
+    "invoice_number": "536751",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536372' vs '536753').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536372",
+    "invoice_number": "536372",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536753",
+    "invoice_number": "536753",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536372' vs '536789').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536372",
+    "invoice_number": "536372",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536789",
+    "invoice_number": "536789",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 259.86, dates within 7 days, different invoice numbers ('536373' vs '536375').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536373",
+    "invoice_number": "536373",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 259.86
+   },
+   "b": {
+    "invoice_id": "corpus:536375",
+    "invoice_number": "536375",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 259.86
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536377' vs '536399').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536377",
+    "invoice_number": "536377",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536399",
+    "invoice_number": "536399",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536377' vs '536407').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536377",
+    "invoice_number": "536377",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536407",
+    "invoice_number": "536407",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536377' vs '536601').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536377",
+    "invoice_number": "536377",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536601",
+    "invoice_number": "536601",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536377' vs '536603').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536377",
+    "invoice_number": "536377",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536603",
+    "invoice_number": "536603",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536377' vs '536610').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536377",
+    "invoice_number": "536377",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536610",
+    "invoice_number": "536610",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536377' vs '536614').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536377",
+    "invoice_number": "536377",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536614",
+    "invoice_number": "536614",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536377' vs '536629').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536377",
+    "invoice_number": "536377",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536629",
+    "invoice_number": "536629",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536377' vs '536631').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536377",
+    "invoice_number": "536377",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536631",
+    "invoice_number": "536631",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536377' vs '536688').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536377",
+    "invoice_number": "536377",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536688",
+    "invoice_number": "536688",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536377' vs '536693').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536377",
+    "invoice_number": "536377",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536693",
+    "invoice_number": "536693",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536377' vs '536751').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536377",
+    "invoice_number": "536377",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536751",
+    "invoice_number": "536751",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536377' vs '536753').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536377",
+    "invoice_number": "536377",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536753",
+    "invoice_number": "536753",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536377' vs '536789').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536377",
+    "invoice_number": "536377",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536789",
+    "invoice_number": "536789",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536399' vs '536407').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536399",
+    "invoice_number": "536399",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536407",
+    "invoice_number": "536407",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536399' vs '536601').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536399",
+    "invoice_number": "536399",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536601",
+    "invoice_number": "536601",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536399' vs '536603').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536399",
+    "invoice_number": "536399",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536603",
+    "invoice_number": "536603",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536399' vs '536610').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536399",
+    "invoice_number": "536399",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536610",
+    "invoice_number": "536610",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536399' vs '536614').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536399",
+    "invoice_number": "536399",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536614",
+    "invoice_number": "536614",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536399' vs '536629').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536399",
+    "invoice_number": "536399",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536629",
+    "invoice_number": "536629",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536399' vs '536631').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536399",
+    "invoice_number": "536399",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536631",
+    "invoice_number": "536631",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536399' vs '536688').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536399",
+    "invoice_number": "536399",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536688",
+    "invoice_number": "536688",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536399' vs '536693').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536399",
+    "invoice_number": "536399",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536693",
+    "invoice_number": "536693",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536399' vs '536751').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536399",
+    "invoice_number": "536399",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536751",
+    "invoice_number": "536751",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536399' vs '536753').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536399",
+    "invoice_number": "536399",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536753",
+    "invoice_number": "536753",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536399' vs '536789').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536399",
+    "invoice_number": "536399",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536789",
+    "invoice_number": "536789",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536407' vs '536601').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536407",
+    "invoice_number": "536407",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536601",
+    "invoice_number": "536601",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536407' vs '536603').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536407",
+    "invoice_number": "536407",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536603",
+    "invoice_number": "536603",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536407' vs '536610').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536407",
+    "invoice_number": "536407",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536610",
+    "invoice_number": "536610",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536407' vs '536614').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536407",
+    "invoice_number": "536407",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536614",
+    "invoice_number": "536614",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536407' vs '536629').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536407",
+    "invoice_number": "536407",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536629",
+    "invoice_number": "536629",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536407' vs '536631').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536407",
+    "invoice_number": "536407",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536631",
+    "invoice_number": "536631",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536407' vs '536688').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536407",
+    "invoice_number": "536407",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536688",
+    "invoice_number": "536688",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536407' vs '536693').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536407",
+    "invoice_number": "536407",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536693",
+    "invoice_number": "536693",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536407' vs '536751').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536407",
+    "invoice_number": "536407",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536751",
+    "invoice_number": "536751",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536407' vs '536753').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536407",
+    "invoice_number": "536407",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536753",
+    "invoice_number": "536753",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536407' vs '536789').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536407",
+    "invoice_number": "536407",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536789",
+    "invoice_number": "536789",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536601' vs '536603').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536601",
+    "invoice_number": "536601",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536603",
+    "invoice_number": "536603",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536601' vs '536610').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536601",
+    "invoice_number": "536601",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536610",
+    "invoice_number": "536610",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536601' vs '536614').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536601",
+    "invoice_number": "536601",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536614",
+    "invoice_number": "536614",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536601' vs '536629').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536601",
+    "invoice_number": "536601",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536629",
+    "invoice_number": "536629",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536601' vs '536631').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536601",
+    "invoice_number": "536601",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536631",
+    "invoice_number": "536631",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536601' vs '536688').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536601",
+    "invoice_number": "536601",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536688",
+    "invoice_number": "536688",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536601' vs '536693').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536601",
+    "invoice_number": "536601",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536693",
+    "invoice_number": "536693",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536601' vs '536751').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536601",
+    "invoice_number": "536601",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536751",
+    "invoice_number": "536751",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536601' vs '536753').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536601",
+    "invoice_number": "536601",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536753",
+    "invoice_number": "536753",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536601' vs '536789').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536601",
+    "invoice_number": "536601",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536789",
+    "invoice_number": "536789",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536603' vs '536610').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536603",
+    "invoice_number": "536603",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536610",
+    "invoice_number": "536610",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536603' vs '536614').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536603",
+    "invoice_number": "536603",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536614",
+    "invoice_number": "536614",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536603' vs '536629').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536603",
+    "invoice_number": "536603",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536629",
+    "invoice_number": "536629",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536603' vs '536631').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536603",
+    "invoice_number": "536603",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536631",
+    "invoice_number": "536631",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536603' vs '536688').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536603",
+    "invoice_number": "536603",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536688",
+    "invoice_number": "536688",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536603' vs '536693').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536603",
+    "invoice_number": "536603",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536693",
+    "invoice_number": "536693",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536603' vs '536751').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536603",
+    "invoice_number": "536603",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536751",
+    "invoice_number": "536751",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536603' vs '536753').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536603",
+    "invoice_number": "536603",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536753",
+    "invoice_number": "536753",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536603' vs '536789').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536603",
+    "invoice_number": "536603",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536789",
+    "invoice_number": "536789",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 244.46, dates within 7 days, different invoice numbers ('536609' vs '536630').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536609",
+    "invoice_number": "536609",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 244.46
+   },
+   "b": {
+    "invoice_id": "corpus:536630",
+    "invoice_number": "536630",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 244.46
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536610' vs '536614').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536610",
+    "invoice_number": "536610",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536614",
+    "invoice_number": "536614",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536610' vs '536629').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536610",
+    "invoice_number": "536610",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536629",
+    "invoice_number": "536629",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536610' vs '536631').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536610",
+    "invoice_number": "536610",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536631",
+    "invoice_number": "536631",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536610' vs '536688').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536610",
+    "invoice_number": "536610",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536688",
+    "invoice_number": "536688",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536610' vs '536693').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536610",
+    "invoice_number": "536610",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536693",
+    "invoice_number": "536693",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536610' vs '536751').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536610",
+    "invoice_number": "536610",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536751",
+    "invoice_number": "536751",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536610' vs '536753').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536610",
+    "invoice_number": "536610",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536753",
+    "invoice_number": "536753",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536610' vs '536789').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536610",
+    "invoice_number": "536610",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536789",
+    "invoice_number": "536789",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536614' vs '536629').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536614",
+    "invoice_number": "536614",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536629",
+    "invoice_number": "536629",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536614' vs '536631').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536614",
+    "invoice_number": "536614",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536631",
+    "invoice_number": "536631",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536614' vs '536688').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536614",
+    "invoice_number": "536614",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536688",
+    "invoice_number": "536688",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536614' vs '536693').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536614",
+    "invoice_number": "536614",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536693",
+    "invoice_number": "536693",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536614' vs '536751').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536614",
+    "invoice_number": "536614",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536751",
+    "invoice_number": "536751",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536614' vs '536753').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536614",
+    "invoice_number": "536614",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536753",
+    "invoice_number": "536753",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536614' vs '536789').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536614",
+    "invoice_number": "536614",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536789",
+    "invoice_number": "536789",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536629' vs '536631').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536629",
+    "invoice_number": "536629",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536631",
+    "invoice_number": "536631",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536629' vs '536688').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536629",
+    "invoice_number": "536629",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536688",
+    "invoice_number": "536688",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536629' vs '536693').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536629",
+    "invoice_number": "536629",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536693",
+    "invoice_number": "536693",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536629' vs '536751').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536629",
+    "invoice_number": "536629",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536751",
+    "invoice_number": "536751",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536629' vs '536753').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536629",
+    "invoice_number": "536629",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536753",
+    "invoice_number": "536753",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536629' vs '536789').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536629",
+    "invoice_number": "536629",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536789",
+    "invoice_number": "536789",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536631' vs '536688').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536631",
+    "invoice_number": "536631",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536688",
+    "invoice_number": "536688",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536631' vs '536693').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536631",
+    "invoice_number": "536631",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536693",
+    "invoice_number": "536693",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536631' vs '536751').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536631",
+    "invoice_number": "536631",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536751",
+    "invoice_number": "536751",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536631' vs '536753').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536631",
+    "invoice_number": "536631",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536753",
+    "invoice_number": "536753",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536631' vs '536789').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536631",
+    "invoice_number": "536631",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536789",
+    "invoice_number": "536789",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536688' vs '536693').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536688",
+    "invoice_number": "536688",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536693",
+    "invoice_number": "536693",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536688' vs '536751').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536688",
+    "invoice_number": "536688",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536751",
+    "invoice_number": "536751",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536688' vs '536753').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536688",
+    "invoice_number": "536688",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536753",
+    "invoice_number": "536753",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536688' vs '536789').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536688",
+    "invoice_number": "536688",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536789",
+    "invoice_number": "536789",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536693' vs '536751').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536693",
+    "invoice_number": "536693",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536751",
+    "invoice_number": "536751",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536693' vs '536753').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536693",
+    "invoice_number": "536693",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536753",
+    "invoice_number": "536753",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536693' vs '536789').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536693",
+    "invoice_number": "536693",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536789",
+    "invoice_number": "536789",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536751' vs '536753').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536751",
+    "invoice_number": "536751",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536753",
+    "invoice_number": "536753",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536751' vs '536789').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536751",
+    "invoice_number": "536751",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536789",
+    "invoice_number": "536789",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 22.20, dates within 7 days, different invoice numbers ('536753' vs '536789').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536753",
+    "invoice_number": "536753",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   },
+   "b": {
+    "invoice_id": "corpus:536789",
+    "invoice_number": "536789",
+    "vendor_raw": "Vendor account 17850 (United Kingdom)",
+    "invoice_date": "2010-12-02",
+    "total": 22.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 350.40, dates within 7 days, different invoice numbers ('536374' vs '537767').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:536374",
+    "invoice_number": "536374",
+    "vendor_raw": "Vendor account 15100 (United Kingdom)",
+    "invoice_date": "2010-12-01",
+    "total": 350.4
+   },
+   "b": {
+    "invoice_id": "corpus:537767",
+    "invoice_number": "537767",
+    "vendor_raw": "Vendor account 15100 (United Kingdom)",
+    "invoice_date": "2010-12-08",
+    "total": 350.4
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 705.60, dates within 7 days, different invoice numbers ('546733' vs '546734').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:546733",
+    "invoice_number": "546733",
+    "vendor_raw": "Vendor account 16029 (United Kingdom)",
+    "invoice_date": "2011-03-16",
+    "total": 705.6
+   },
+   "b": {
+    "invoice_id": "corpus:546734",
+    "invoice_number": "546734",
+    "vendor_raw": "Vendor account 16029 (United Kingdom)",
+    "invoice_date": "2011-03-16",
+    "total": 705.6
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 177.60, dates within 7 days, different invoice numbers ('565591' vs '565793').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:565591",
+    "invoice_number": "565591",
+    "vendor_raw": "Vendor account 16029 (United Kingdom)",
+    "invoice_date": "2011-09-05",
+    "total": 177.6
+   },
+   "b": {
+    "invoice_id": "corpus:565793",
+    "invoice_number": "565793",
+    "vendor_raw": "Vendor account 16029 (United Kingdom)",
+    "invoice_date": "2011-09-07",
+    "total": 177.6
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 1004.40, dates within 7 days, different invoice numbers ('567346' vs '567376').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:567346",
+    "invoice_number": "567346",
+    "vendor_raw": "Vendor account 13767 (United Kingdom)",
+    "invoice_date": "2011-09-19",
+    "total": 1004.4
+   },
+   "b": {
+    "invoice_id": "corpus:567376",
+    "invoice_number": "567376",
+    "vendor_raw": "Vendor account 13767 (United Kingdom)",
+    "invoice_date": "2011-09-20",
+    "total": 1004.4
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 1004.40, dates within 7 days, different invoice numbers ('567346' vs '567425').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:567346",
+    "invoice_number": "567346",
+    "vendor_raw": "Vendor account 13767 (United Kingdom)",
+    "invoice_date": "2011-09-19",
+    "total": 1004.4
+   },
+   "b": {
+    "invoice_id": "corpus:567425",
+    "invoice_number": "567425",
+    "vendor_raw": "Vendor account 13767 (United Kingdom)",
+    "invoice_date": "2011-09-20",
+    "total": 1004.4
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 1004.40, dates within 7 days, different invoice numbers ('567376' vs '567425').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:567376",
+    "invoice_number": "567376",
+    "vendor_raw": "Vendor account 13767 (United Kingdom)",
+    "invoice_date": "2011-09-20",
+    "total": 1004.4
+   },
+   "b": {
+    "invoice_id": "corpus:567425",
+    "invoice_number": "567425",
+    "vendor_raw": "Vendor account 13767 (United Kingdom)",
+    "invoice_date": "2011-09-20",
+    "total": 1004.4
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 1.90, dates within 7 days, different invoice numbers ('538288' vs '538667').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:538288",
+    "invoice_number": "538288",
+    "vendor_raw": "Vendor account 12748 (United Kingdom)",
+    "invoice_date": "2010-12-10",
+    "total": 1.9
+   },
+   "b": {
+    "invoice_id": "corpus:538667",
+    "invoice_number": "538667",
+    "vendor_raw": "Vendor account 12748 (United Kingdom)",
+    "invoice_date": "2010-12-13",
+    "total": 1.9
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 1687.17, dates within 7 days, different invoice numbers ('546328' vs '546329').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:546328",
+    "invoice_number": "546328",
+    "vendor_raw": "Vendor account 14911 (EIRE)",
+    "invoice_date": "2011-03-11",
+    "total": 1687.17
+   },
+   "b": {
+    "invoice_id": "corpus:546329",
+    "invoice_number": "546329",
+    "vendor_raw": "Vendor account 14911 (EIRE)",
+    "invoice_date": "2011-03-11",
+    "total": 1687.17
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 5.80, dates within 7 days, different invoice numbers ('554776' vs '554791').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:554776",
+    "invoice_number": "554776",
+    "vendor_raw": "Vendor account 14911 (EIRE)",
+    "invoice_date": "2011-05-26",
+    "total": 5.8
+   },
+   "b": {
+    "invoice_id": "corpus:554791",
+    "invoice_number": "554791",
+    "vendor_raw": "Vendor account 14911 (EIRE)",
+    "invoice_date": "2011-05-26",
+    "total": 5.8
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 4345.10, dates within 7 days, different invoice numbers ('561645' vs '562374').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:561645",
+    "invoice_number": "561645",
+    "vendor_raw": "Vendor account 14911 (EIRE)",
+    "invoice_date": "2011-07-28",
+    "total": 4345.1
+   },
+   "b": {
+    "invoice_id": "corpus:562374",
+    "invoice_number": "562374",
+    "vendor_raw": "Vendor account 14911 (EIRE)",
+    "invoice_date": "2011-08-04",
+    "total": 4345.1
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 2.95, dates within 7 days, different invoice numbers ('537230' vs '538188').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:537230",
+    "invoice_number": "537230",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2010-12-06",
+    "total": 2.95
+   },
+   "b": {
+    "invoice_id": "corpus:538188",
+    "invoice_number": "538188",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2010-12-10",
+    "total": 2.95
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 2.95, dates within 7 days, different invoice numbers ('538188' vs '538724').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:538188",
+    "invoice_number": "538188",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2010-12-10",
+    "total": 2.95
+   },
+   "b": {
+    "invoice_id": "corpus:538724",
+    "invoice_number": "538724",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2010-12-14",
+    "total": 2.95
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 2.95, dates within 7 days, different invoice numbers ('538188' vs '539081').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:538188",
+    "invoice_number": "538188",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2010-12-10",
+    "total": 2.95
+   },
+   "b": {
+    "invoice_id": "corpus:539081",
+    "invoice_number": "539081",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2010-12-16",
+    "total": 2.95
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 2.95, dates within 7 days, different invoice numbers ('538724' vs '539081').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:538724",
+    "invoice_number": "538724",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2010-12-14",
+    "total": 2.95
+   },
+   "b": {
+    "invoice_id": "corpus:539081",
+    "invoice_number": "539081",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2010-12-16",
+    "total": 2.95
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 2.10, dates within 7 days, different invoice numbers ('539656' vs '539759').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:539656",
+    "invoice_number": "539656",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2010-12-20",
+    "total": 2.1
+   },
+   "b": {
+    "invoice_id": "corpus:539759",
+    "invoice_number": "539759",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2010-12-21",
+    "total": 2.1
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 7.95, dates within 7 days, different invoice numbers ('539729' vs '539734').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:539729",
+    "invoice_number": "539729",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2010-12-21",
+    "total": 7.95
+   },
+   "b": {
+    "invoice_id": "corpus:539734",
+    "invoice_number": "539734",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2010-12-21",
+    "total": 7.95
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 4.25, dates within 7 days, different invoice numbers ('539751' vs '539758').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:539751",
+    "invoice_number": "539751",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2010-12-21",
+    "total": 4.25
+   },
+   "b": {
+    "invoice_id": "corpus:539758",
+    "invoice_number": "539758",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2010-12-21",
+    "total": 4.25
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 12.75, dates within 7 days, different invoice numbers ('540375' vs '540836').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:540375",
+    "invoice_number": "540375",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-01-06",
+    "total": 12.75
+   },
+   "b": {
+    "invoice_id": "corpus:540836",
+    "invoice_number": "540836",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-01-11",
+    "total": 12.75
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 7.95, dates within 7 days, different invoice numbers ('543383' vs '543385').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:543383",
+    "invoice_number": "543383",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-02-07",
+    "total": 7.95
+   },
+   "b": {
+    "invoice_id": "corpus:543385",
+    "invoice_number": "543385",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-02-07",
+    "total": 7.95
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 0.85, dates within 7 days, different invoice numbers ('544438' vs '544927').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:544438",
+    "invoice_number": "544438",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-02-18",
+    "total": 0.85
+   },
+   "b": {
+    "invoice_id": "corpus:544927",
+    "invoice_number": "544927",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-02-24",
+    "total": 0.85
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 7.95, dates within 7 days, different invoice numbers ('545584' vs '545703').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:545584",
+    "invoice_number": "545584",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-03-04",
+    "total": 7.95
+   },
+   "b": {
+    "invoice_id": "corpus:545703",
+    "invoice_number": "545703",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-03-06",
+    "total": 7.95
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 2.55, dates within 7 days, different invoice numbers ('546002' vs '546004').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:546002",
+    "invoice_number": "546002",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-03-08",
+    "total": 2.55
+   },
+   "b": {
+    "invoice_id": "corpus:546004",
+    "invoice_number": "546004",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-03-08",
+    "total": 2.55
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 1.25, dates within 7 days, different invoice numbers ('547007' vs '547009').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:547007",
+    "invoice_number": "547007",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-03-18",
+    "total": 1.25
+   },
+   "b": {
+    "invoice_id": "corpus:547009",
+    "invoice_number": "547009",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-03-18",
+    "total": 1.25
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 4.20, dates within 7 days, different invoice numbers ('551536' vs '552063').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:551536",
+    "invoice_number": "551536",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-05-03",
+    "total": 4.2
+   },
+   "b": {
+    "invoice_id": "corpus:552063",
+    "invoice_number": "552063",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-05-06",
+    "total": 4.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 4.95, dates within 7 days, different invoice numbers ('551847' vs '552534').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:551847",
+    "invoice_number": "551847",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-05-04",
+    "total": 4.95
+   },
+   "b": {
+    "invoice_id": "corpus:552534",
+    "invoice_number": "552534",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-05-10",
+    "total": 4.95
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 16.50, dates within 7 days, different invoice numbers ('552832' vs '552834').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:552832",
+    "invoice_number": "552832",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-05-11",
+    "total": 16.5
+   },
+   "b": {
+    "invoice_id": "corpus:552834",
+    "invoice_number": "552834",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-05-11",
+    "total": 16.5
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 4.15, dates within 7 days, different invoice numbers ('557610' vs '558246').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:557610",
+    "invoice_number": "557610",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-06-21",
+    "total": 4.15
+   },
+   "b": {
+    "invoice_id": "corpus:558246",
+    "invoice_number": "558246",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-06-27",
+    "total": 4.15
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 542.20, dates within 7 days, different invoice numbers ('558046' vs '558047').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:558046",
+    "invoice_number": "558046",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-06-24",
+    "total": 542.2
+   },
+   "b": {
+    "invoice_id": "corpus:558047",
+    "invoice_number": "558047",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-06-24",
+    "total": 542.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 1.65, dates within 7 days, different invoice numbers ('565076' vs '565400').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:565076",
+    "invoice_number": "565076",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-08-31",
+    "total": 1.65
+   },
+   "b": {
+    "invoice_id": "corpus:565400",
+    "invoice_number": "565400",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-09-02",
+    "total": 1.65
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 1.36, dates within 7 days, different invoice numbers ('568514' vs '568914').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:568514",
+    "invoice_number": "568514",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-09-27",
+    "total": 1.36
+   },
+   "b": {
+    "invoice_id": "corpus:568914",
+    "invoice_number": "568914",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-09-29",
+    "total": 1.36
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 5.00, dates within 7 days, different invoice numbers ('574742' vs '575925').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:574742",
+    "invoice_number": "574742",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-11-06",
+    "total": 5.0
+   },
+   "b": {
+    "invoice_id": "corpus:575925",
+    "invoice_number": "575925",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-11-11",
+    "total": 5.0
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 4.25, dates within 7 days, different invoice numbers ('577401' vs '578847').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:577401",
+    "invoice_number": "577401",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-11-18",
+    "total": 4.25
+   },
+   "b": {
+    "invoice_id": "corpus:578847",
+    "invoice_number": "578847",
+    "vendor_raw": "No account on file",
+    "invoice_date": "2011-11-25",
+    "total": 4.25
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 1416.00, dates within 7 days, different invoice numbers ('569385' vs '569388').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:569385",
+    "invoice_number": "569385",
+    "vendor_raw": "Vendor account 14031 (United Kingdom)",
+    "invoice_date": "2011-10-03",
+    "total": 1416.0
+   },
+   "b": {
+    "invoice_id": "corpus:569388",
+    "invoice_number": "569388",
+    "vendor_raw": "Vendor account 14031 (United Kingdom)",
+    "invoice_date": "2011-10-03",
+    "total": 1416.0
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 33.00, dates within 7 days, different invoice numbers ('569872' vs '569873').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:569872",
+    "invoice_number": "569872",
+    "vendor_raw": "Vendor account 13089 (United Kingdom)",
+    "invoice_date": "2011-10-06",
+    "total": 33.0
+   },
+   "b": {
+    "invoice_id": "corpus:569873",
+    "invoice_number": "569873",
+    "vendor_raw": "Vendor account 13089 (United Kingdom)",
+    "invoice_date": "2011-10-06",
+    "total": 33.0
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 286.34, dates within 7 days, different invoice numbers ('555933' vs '555936').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:555933",
+    "invoice_number": "555933",
+    "vendor_raw": "Vendor account 12567 (France)",
+    "invoice_date": "2011-06-08",
+    "total": 286.34
+   },
+   "b": {
+    "invoice_id": "corpus:555936",
+    "invoice_number": "555936",
+    "vendor_raw": "Vendor account 12567 (France)",
+    "invoice_date": "2011-06-08",
+    "total": 286.34
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 102.00, dates within 7 days, different invoice numbers ('539001' vs '539410').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:539001",
+    "invoice_number": "539001",
+    "vendor_raw": "Vendor account 16353 (United Kingdom)",
+    "invoice_date": "2010-12-15",
+    "total": 102.0
+   },
+   "b": {
+    "invoice_id": "corpus:539410",
+    "invoice_number": "539410",
+    "vendor_raw": "Vendor account 16353 (United Kingdom)",
+    "invoice_date": "2010-12-17",
+    "total": 102.0
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 102.00, dates within 7 days, different invoice numbers ('539001' vs '539604').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:539001",
+    "invoice_number": "539001",
+    "vendor_raw": "Vendor account 16353 (United Kingdom)",
+    "invoice_date": "2010-12-15",
+    "total": 102.0
+   },
+   "b": {
+    "invoice_id": "corpus:539604",
+    "invoice_number": "539604",
+    "vendor_raw": "Vendor account 16353 (United Kingdom)",
+    "invoice_date": "2010-12-20",
+    "total": 102.0
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 102.00, dates within 7 days, different invoice numbers ('539410' vs '539604').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:539410",
+    "invoice_number": "539410",
+    "vendor_raw": "Vendor account 16353 (United Kingdom)",
+    "invoice_date": "2010-12-17",
+    "total": 102.0
+   },
+   "b": {
+    "invoice_id": "corpus:539604",
+    "invoice_number": "539604",
+    "vendor_raw": "Vendor account 16353 (United Kingdom)",
+    "invoice_date": "2010-12-20",
+    "total": 102.0
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 76.32, dates within 7 days, different invoice numbers ('540004' vs '540370').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:540004",
+    "invoice_number": "540004",
+    "vendor_raw": "Vendor account 13094 (United Kingdom)",
+    "invoice_date": "2011-01-04",
+    "total": 76.32
+   },
+   "b": {
+    "invoice_id": "corpus:540370",
+    "invoice_number": "540370",
+    "vendor_raw": "Vendor account 13094 (United Kingdom)",
+    "invoice_date": "2011-01-06",
+    "total": 76.32
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 205.74, dates within 7 days, different invoice numbers ('553177' vs '553654').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:553177",
+    "invoice_number": "553177",
+    "vendor_raw": "Vendor account 13094 (United Kingdom)",
+    "invoice_date": "2011-05-15",
+    "total": 205.74
+   },
+   "b": {
+    "invoice_id": "corpus:553654",
+    "invoice_number": "553654",
+    "vendor_raw": "Vendor account 13094 (United Kingdom)",
+    "invoice_date": "2011-05-18",
+    "total": 205.74
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 500.61, dates within 7 days, different invoice numbers ('573358' vs '573390').",
+   "in_review_week": true,
+   "a": {
+    "invoice_id": "corpus:573358",
+    "invoice_number": "573358",
+    "vendor_raw": "Vendor account 17213 (United Kingdom)",
+    "invoice_date": "2011-10-30",
+    "total": 500.61
+   },
+   "b": {
+    "invoice_id": "corpus:573390",
+    "invoice_number": "573390",
+    "vendor_raw": "Vendor account 17213 (United Kingdom)",
+    "invoice_date": "2011-10-30",
+    "total": 500.61
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 14.75, dates within 7 days, different invoice numbers ('542725' vs '542743').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:542725",
+    "invoice_number": "542725",
+    "vendor_raw": "Vendor account 16191 (United Kingdom)",
+    "invoice_date": "2011-01-31",
+    "total": 14.75
+   },
+   "b": {
+    "invoice_id": "corpus:542743",
+    "invoice_number": "542743",
+    "vendor_raw": "Vendor account 16191 (United Kingdom)",
+    "invoice_date": "2011-01-31",
+    "total": 14.75
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 360.00, dates within 7 days, different invoice numbers ('572348' vs '572756').",
+   "in_review_week": true,
+   "a": {
+    "invoice_id": "corpus:572348",
+    "invoice_number": "572348",
+    "vendor_raw": "Vendor account 15482 (United Kingdom)",
+    "invoice_date": "2011-10-24",
+    "total": 360.0
+   },
+   "b": {
+    "invoice_id": "corpus:572756",
+    "invoice_number": "572756",
+    "vendor_raw": "Vendor account 15482 (United Kingdom)",
+    "invoice_date": "2011-10-25",
+    "total": 360.0
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 768.00, dates within 7 days, different invoice numbers ('559048' vs '559255').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:559048",
+    "invoice_number": "559048",
+    "vendor_raw": "Vendor account 13027 (United Kingdom)",
+    "invoice_date": "2011-07-05",
+    "total": 768.0
+   },
+   "b": {
+    "invoice_id": "corpus:559255",
+    "invoice_number": "559255",
+    "vendor_raw": "Vendor account 13027 (United Kingdom)",
+    "invoice_date": "2011-07-07",
+    "total": 768.0
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 244.80, dates within 7 days, different invoice numbers ('564160' vs '564709').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:564160",
+    "invoice_number": "564160",
+    "vendor_raw": "Vendor account 15569 (United Kingdom)",
+    "invoice_date": "2011-08-23",
+    "total": 244.8
+   },
+   "b": {
+    "invoice_id": "corpus:564709",
+    "invoice_number": "564709",
+    "vendor_raw": "Vendor account 15569 (United Kingdom)",
+    "invoice_date": "2011-08-28",
+    "total": 244.8
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 1304.70, dates within 7 days, different invoice numbers ('565865' vs '566163').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:565865",
+    "invoice_number": "565865",
+    "vendor_raw": "Vendor account 12637 (France)",
+    "invoice_date": "2011-09-07",
+    "total": 1304.7
+   },
+   "b": {
+    "invoice_id": "corpus:566163",
+    "invoice_number": "566163",
+    "vendor_raw": "Vendor account 12637 (France)",
+    "invoice_date": "2011-09-09",
+    "total": 1304.7
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 67.95, dates within 7 days, different invoice numbers ('543372' vs '543376').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:543372",
+    "invoice_number": "543372",
+    "vendor_raw": "Vendor account 16321 (Australia)",
+    "invoice_date": "2011-02-07",
+    "total": 67.95
+   },
+   "b": {
+    "invoice_id": "corpus:543376",
+    "invoice_number": "543376",
+    "vendor_raw": "Vendor account 16321 (Australia)",
+    "invoice_date": "2011-02-07",
+    "total": 67.95
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 75.00, dates within 7 days, different invoice numbers ('568687' vs '568695').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:568687",
+    "invoice_number": "568687",
+    "vendor_raw": "Vendor account 16321 (Australia)",
+    "invoice_date": "2011-09-28",
+    "total": 75.0
+   },
+   "b": {
+    "invoice_id": "corpus:568695",
+    "invoice_number": "568695",
+    "vendor_raw": "Vendor account 16321 (Australia)",
+    "invoice_date": "2011-09-28",
+    "total": 75.0
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 89.55, dates within 7 days, different invoice numbers ('550516' vs '550610').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:550516",
+    "invoice_number": "550516",
+    "vendor_raw": "Vendor account 14502 (United Kingdom)",
+    "invoice_date": "2011-04-18",
+    "total": 89.55
+   },
+   "b": {
+    "invoice_id": "corpus:550610",
+    "invoice_number": "550610",
+    "vendor_raw": "Vendor account 14502 (United Kingdom)",
+    "invoice_date": "2011-04-19",
+    "total": 89.55
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 330.24, dates within 7 days, different invoice numbers ('571693' vs '571914').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:571693",
+    "invoice_number": "571693",
+    "vendor_raw": "Vendor account 14776 (United Kingdom)",
+    "invoice_date": "2011-10-18",
+    "total": 330.24
+   },
+   "b": {
+    "invoice_id": "corpus:571914",
+    "invoice_number": "571914",
+    "vendor_raw": "Vendor account 14776 (United Kingdom)",
+    "invoice_date": "2011-10-19",
+    "total": 330.24
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 264.60, dates within 7 days, different invoice numbers ('578345' vs '578346').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:578345",
+    "invoice_number": "578345",
+    "vendor_raw": "Vendor account 15270 (United Kingdom)",
+    "invoice_date": "2011-11-24",
+    "total": 264.6
+   },
+   "b": {
+    "invoice_id": "corpus:578346",
+    "invoice_number": "578346",
+    "vendor_raw": "Vendor account 15270 (United Kingdom)",
+    "invoice_date": "2011-11-24",
+    "total": 264.6
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 355.20, dates within 7 days, different invoice numbers ('548629' vs '548630').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:548629",
+    "invoice_number": "548629",
+    "vendor_raw": "Vendor account 16333 (United Kingdom)",
+    "invoice_date": "2011-04-01",
+    "total": 355.2
+   },
+   "b": {
+    "invoice_id": "corpus:548630",
+    "invoice_number": "548630",
+    "vendor_raw": "Vendor account 16333 (United Kingdom)",
+    "invoice_date": "2011-04-01",
+    "total": 355.2
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 320.69, dates within 7 days, different invoice numbers ('544574' vs '544578').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:544574",
+    "invoice_number": "544574",
+    "vendor_raw": "Vendor account 12365 (Cyprus)",
+    "invoice_date": "2011-02-21",
+    "total": 320.69
+   },
+   "b": {
+    "invoice_id": "corpus:544578",
+    "invoice_number": "544578",
+    "vendor_raw": "Vendor account 12365 (Cyprus)",
+    "invoice_date": "2011-02-21",
+    "total": 320.69
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 61.95, dates within 7 days, different invoice numbers ('552848' vs '552850').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:552848",
+    "invoice_number": "552848",
+    "vendor_raw": "Vendor account 14367 (United Kingdom)",
+    "invoice_date": "2011-05-11",
+    "total": 61.95
+   },
+   "b": {
+    "invoice_id": "corpus:552850",
+    "invoice_number": "552850",
+    "vendor_raw": "Vendor account 14367 (United Kingdom)",
+    "invoice_date": "2011-05-11",
+    "total": 61.95
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 572.80, dates within 7 days, different invoice numbers ('546387' vs '546403').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:546387",
+    "invoice_number": "546387",
+    "vendor_raw": "Vendor account 16766 (United Kingdom)",
+    "invoice_date": "2011-03-11",
+    "total": 572.8
+   },
+   "b": {
+    "invoice_id": "corpus:546403",
+    "invoice_number": "546403",
+    "vendor_raw": "Vendor account 16766 (United Kingdom)",
+    "invoice_date": "2011-03-11",
+    "total": 572.8
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 306.00, dates within 7 days, different invoice numbers ('571259' vs '571261').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:571259",
+    "invoice_number": "571259",
+    "vendor_raw": "Vendor account 12901 (United Kingdom)",
+    "invoice_date": "2011-10-16",
+    "total": 306.0
+   },
+   "b": {
+    "invoice_id": "corpus:571261",
+    "invoice_number": "571261",
+    "vendor_raw": "Vendor account 12901 (United Kingdom)",
+    "invoice_date": "2011-10-16",
+    "total": 306.0
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 418.18, dates within 7 days, different invoice numbers ('547644' vs '547655').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:547644",
+    "invoice_number": "547644",
+    "vendor_raw": "Vendor account 14267 (United Kingdom)",
+    "invoice_date": "2011-03-24",
+    "total": 418.18
+   },
+   "b": {
+    "invoice_id": "corpus:547655",
+    "invoice_number": "547655",
+    "vendor_raw": "Vendor account 14267 (United Kingdom)",
+    "invoice_date": "2011-03-24",
+    "total": 418.18
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 355.12, dates within 7 days, different invoice numbers ('548215' vs '548973').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:548215",
+    "invoice_number": "548215",
+    "vendor_raw": "Vendor account 15674 (United Kingdom)",
+    "invoice_date": "2011-03-30",
+    "total": 355.12
+   },
+   "b": {
+    "invoice_id": "corpus:548973",
+    "invoice_number": "548973",
+    "vendor_raw": "Vendor account 15674 (United Kingdom)",
+    "invoice_date": "2011-04-05",
+    "total": 355.12
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 334.71, dates within 7 days, different invoice numbers ('552316' vs '552549').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:552316",
+    "invoice_number": "552316",
+    "vendor_raw": "Vendor account 15674 (United Kingdom)",
+    "invoice_date": "2011-05-08",
+    "total": 334.71
+   },
+   "b": {
+    "invoice_id": "corpus:552549",
+    "invoice_number": "552549",
+    "vendor_raw": "Vendor account 15674 (United Kingdom)",
+    "invoice_date": "2011-05-10",
+    "total": 334.71
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 138.24, dates within 7 days, different invoice numbers ('549447' vs '549541').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:549447",
+    "invoice_number": "549447",
+    "vendor_raw": "Vendor account 17268 (United Kingdom)",
+    "invoice_date": "2011-04-08",
+    "total": 138.24
+   },
+   "b": {
+    "invoice_id": "corpus:549541",
+    "invoice_number": "549541",
+    "vendor_raw": "Vendor account 17268 (United Kingdom)",
+    "invoice_date": "2011-04-10",
+    "total": 138.24
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 1241.98, dates within 7 days, different invoice numbers ('554155' vs '554301').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:554155",
+    "invoice_number": "554155",
+    "vendor_raw": "Vendor account 12757 (Portugal)",
+    "invoice_date": "2011-05-23",
+    "total": 1241.98
+   },
+   "b": {
+    "invoice_id": "corpus:554301",
+    "invoice_number": "554301",
+    "vendor_raw": "Vendor account 12757 (Portugal)",
+    "invoice_date": "2011-05-23",
+    "total": 1241.98
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 430.98, dates within 7 days, different invoice numbers ('555591' vs '555819').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:555591",
+    "invoice_number": "555591",
+    "vendor_raw": "Vendor account 15073 (United Kingdom)",
+    "invoice_date": "2011-06-06",
+    "total": 430.98
+   },
+   "b": {
+    "invoice_id": "corpus:555819",
+    "invoice_number": "555819",
+    "vendor_raw": "Vendor account 15073 (United Kingdom)",
+    "invoice_date": "2011-06-07",
+    "total": 430.98
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 491.12, dates within 7 days, different invoice numbers ('579190' vs '579193').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:579190",
+    "invoice_number": "579190",
+    "vendor_raw": "Vendor account 12657 (France)",
+    "invoice_date": "2011-11-28",
+    "total": 491.12
+   },
+   "b": {
+    "invoice_id": "corpus:579193",
+    "invoice_number": "579193",
+    "vendor_raw": "Vendor account 12657 (France)",
+    "invoice_date": "2011-11-28",
+    "total": 491.12
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 898.14, dates within 7 days, different invoice numbers ('570180' vs '570192').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:570180",
+    "invoice_number": "570180",
+    "vendor_raw": "Vendor account 17509 (United Kingdom)",
+    "invoice_date": "2011-10-07",
+    "total": 898.14
+   },
+   "b": {
+    "invoice_id": "corpus:570192",
+    "invoice_number": "570192",
+    "vendor_raw": "Vendor account 17509 (United Kingdom)",
+    "invoice_date": "2011-10-07",
+    "total": 898.14
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 898.14, dates within 7 days, different invoice numbers ('570180' vs '570249').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:570180",
+    "invoice_number": "570180",
+    "vendor_raw": "Vendor account 17509 (United Kingdom)",
+    "invoice_date": "2011-10-07",
+    "total": 898.14
+   },
+   "b": {
+    "invoice_id": "corpus:570249",
+    "invoice_number": "570249",
+    "vendor_raw": "Vendor account 17509 (United Kingdom)",
+    "invoice_date": "2011-10-10",
+    "total": 898.14
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 898.14, dates within 7 days, different invoice numbers ('570180' vs '570888').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:570180",
+    "invoice_number": "570180",
+    "vendor_raw": "Vendor account 17509 (United Kingdom)",
+    "invoice_date": "2011-10-07",
+    "total": 898.14
+   },
+   "b": {
+    "invoice_id": "corpus:570888",
+    "invoice_number": "570888",
+    "vendor_raw": "Vendor account 17509 (United Kingdom)",
+    "invoice_date": "2011-10-13",
+    "total": 898.14
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 898.14, dates within 7 days, different invoice numbers ('570192' vs '570249').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:570192",
+    "invoice_number": "570192",
+    "vendor_raw": "Vendor account 17509 (United Kingdom)",
+    "invoice_date": "2011-10-07",
+    "total": 898.14
+   },
+   "b": {
+    "invoice_id": "corpus:570249",
+    "invoice_number": "570249",
+    "vendor_raw": "Vendor account 17509 (United Kingdom)",
+    "invoice_date": "2011-10-10",
+    "total": 898.14
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 898.14, dates within 7 days, different invoice numbers ('570192' vs '570888').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:570192",
+    "invoice_number": "570192",
+    "vendor_raw": "Vendor account 17509 (United Kingdom)",
+    "invoice_date": "2011-10-07",
+    "total": 898.14
+   },
+   "b": {
+    "invoice_id": "corpus:570888",
+    "invoice_number": "570888",
+    "vendor_raw": "Vendor account 17509 (United Kingdom)",
+    "invoice_date": "2011-10-13",
+    "total": 898.14
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 898.14, dates within 7 days, different invoice numbers ('570249' vs '570888').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:570249",
+    "invoice_number": "570249",
+    "vendor_raw": "Vendor account 17509 (United Kingdom)",
+    "invoice_date": "2011-10-10",
+    "total": 898.14
+   },
+   "b": {
+    "invoice_id": "corpus:570888",
+    "invoice_number": "570888",
+    "vendor_raw": "Vendor account 17509 (United Kingdom)",
+    "invoice_date": "2011-10-13",
+    "total": 898.14
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 102.00, dates within 7 days, different invoice numbers ('570441' vs '570844').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:570441",
+    "invoice_number": "570441",
+    "vendor_raw": "Vendor account 15473 (United Kingdom)",
+    "invoice_date": "2011-10-10",
+    "total": 102.0
+   },
+   "b": {
+    "invoice_id": "corpus:570844",
+    "invoice_number": "570844",
+    "vendor_raw": "Vendor account 15473 (United Kingdom)",
+    "invoice_date": "2011-10-12",
+    "total": 102.0
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 102.00, dates within 7 days, different invoice numbers ('570441' vs '570848').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:570441",
+    "invoice_number": "570441",
+    "vendor_raw": "Vendor account 15473 (United Kingdom)",
+    "invoice_date": "2011-10-10",
+    "total": 102.0
+   },
+   "b": {
+    "invoice_id": "corpus:570848",
+    "invoice_number": "570848",
+    "vendor_raw": "Vendor account 15473 (United Kingdom)",
+    "invoice_date": "2011-10-12",
+    "total": 102.0
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 102.00, dates within 7 days, different invoice numbers ('570844' vs '570848').",
+   "in_review_week": false,
+   "a": {
+    "invoice_id": "corpus:570844",
+    "invoice_number": "570844",
+    "vendor_raw": "Vendor account 15473 (United Kingdom)",
+    "invoice_date": "2011-10-12",
+    "total": 102.0
+   },
+   "b": {
+    "invoice_id": "corpus:570848",
+    "invoice_number": "570848",
+    "vendor_raw": "Vendor account 15473 (United Kingdom)",
+    "invoice_date": "2011-10-12",
+    "total": 102.0
+   }
+  },
+  {
+   "tier": "near",
+   "reason": "Same vendor, same total 4161.06, dates within 7 days, different invoice numbers ('573077' vs '573080').",
+   "in_review_week": true,
+   "a": {
+    "invoice_id": "corpus:573077",
+    "invoice_number": "573077",
+    "vendor_raw": "Vendor account 12536 (France)",
+    "invoice_date": "2011-10-27",
+    "total": 4161.06
+   },
+   "b": {
+    "invoice_id": "corpus:573080",
+    "invoice_number": "573080",
+    "vendor_raw": "Vendor account 12536 (France)",
+    "invoice_date": "2011-10-27",
+    "total": 4161.06
+   }
+  }
+ ],
+ "pairs_touching_week": 3
+}

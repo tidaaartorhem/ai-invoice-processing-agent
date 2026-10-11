@@ -28,7 +28,7 @@ The web UI (React + TypeScript, light mode) is the Monday-morning replay of 2011
 
 ## Data
 
-Invoices are the real UCI Online Retail corpus (unedited); the PO/GRN registers and payment terms are the walkthrough's seeded company records. Full provenance in [`data/README-data.md`](data/README-data.md).
+Invoices are the real UCI Online Retail corpus (unedited; CC BY 4.0, Chen, D. (2015). Online Retail [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33); the PO/GRN registers and payment terms are the walkthrough's seeded company records. Full provenance in [`data/README-data.md`](data/README-data.md).
 
 ## Run it
 

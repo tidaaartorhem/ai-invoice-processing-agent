@@ -11,7 +11,9 @@ Source: the **UCI Online Retail dataset** (Daqing Chen, Sai Liang Sain, and
 Kun Guo, 2015), downloaded without authentication from the UCI Machine
 Learning Repository
 (`https://archive.ics.uci.edu/static/public/352/online+retail.zip`,
-23,715,478 bytes, verified 2026-10-11) and bundled here. No synthetic
+23,715,478 bytes, verified 2026-10-11) and bundled here. Used under
+CC BY 4.0 — Chen, D. (2015). Online Retail [Dataset]. UCI Machine
+Learning Repository. https://doi.org/10.24432/C5BW33. No synthetic
 rows, no edits — the loader (`services/corpus.py`) only:
 
 - drops cancelled invoices (`InvoiceNo` starting with `C` — credit notes,
